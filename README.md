@@ -1,2 +1,2 @@
 # OPERA
-An OPportunistic, Elastic Resource Allocation for Big Dta Frameworks 
+An **OP**portunistic, **E**lastic **R**esource **A**llocation for Big Dta Frameworks 
